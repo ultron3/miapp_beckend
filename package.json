@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.8.3",
+    "bulma": "^0.9.4",
     "docker": "^1.0.0",
     "domino": "^2.1.6",
     "https-proxy-agent": "^5.0.1",

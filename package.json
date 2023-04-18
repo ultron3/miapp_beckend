@@ -18,5 +18,8 @@
     "https-proxy-agent": "^5.0.1",
     "ios": "^0.0.1",
     "mongodb": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
